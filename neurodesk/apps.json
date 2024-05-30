@@ -1063,15 +1063,6 @@
         },
         "categories": ["rodent imaging"]
     },
-    "relion": {
-        "apps": {
-            "relion 4.0.1.sm61": {
-                "version": "20240528",
-                "exec": ""
-            }
-        },
-        "categories": ["cryo EM"]
-    },
     "romeo": {
         "apps": {
             "romeo 3.2.4": {
@@ -1242,6 +1233,15 @@
         "apps": {
             "tgvqsm 1.0.0": {
                 "version": "20210629",
+                "exec": ""
+            }
+        },
+        "categories": ["quantitative imaging", "phase processing"]
+    },
+    "topaz": {
+        "apps": {
+            "topaz 0.2.5": {
+                "version": "20240313",
                 "exec": ""
             }
         },
